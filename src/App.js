@@ -10,12 +10,7 @@ export default function App() {
           This project is coded by{" "}
           <a href="https://annakoval-cv.netlify.app/"> Anna Koval</a> and
           open-sourced on{" "}
-          <a
-            href="https://github.com/AnnyKoval/weather-final-react"
-            target="_blank"
-          >
-            GitHub
-          </a>
+          <a href="https://github.com/AnnyKoval/weather-final-react">GitHub</a>
         </footer>
       </div>
     </div>
