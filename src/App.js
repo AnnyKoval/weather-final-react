@@ -1,16 +1,38 @@
-import "./App.css";
+import React from "react";
 import Weather from "./Weather";
+import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="Kyiv" />
+        <Weather defaultCity="New York" />
+
         <footer>
-          This project is coded by{" "}
-          <a href="https://annakoval-cv.netlify.app/"> Anna Koval</a> and
-          open-sourced on{" "}
-          <a href="https://github.com/AnnyKoval/weather-final-react">GitHub</a>
+          This project was coded by{" "}
+          <a
+            href="https://www.delac.io/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Anna Koval
+          </a>{" "}
+          and is{" "}
+          <a
+            href="https://github.com/AnnyKoval/weather-final-react"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced on GitHub
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://react-final-weather-project.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
+          </a>
         </footer>
       </div>
     </div>
