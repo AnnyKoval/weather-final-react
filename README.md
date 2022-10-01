@@ -1,6 +1,5 @@
 # Weather React application, created using API by www.openweathermap.com
-
-This project is an interactive dictionary app created using React. It provides you with real-life data, since it has an integrated API, provided by dictionaryapi.dev. It enables you to access information such as meanings of words, synonyms, and pictures.
+This project is an interactive weather app created using React with its libraries. It not only provides you with real-life data, since it has an integrated API and allows you to access information such as humidity, wind speed, precipitation and a five day forecast, it is also has an interactive icons from built-in libraries. All of this information is provided for every city searched.
 
 
 # Getting Started with Create React App
